@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# Java
+*.class
+target/
+
+# JavaScript
+node_modules/
+dist/
+
+# C#
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
